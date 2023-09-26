@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Karanjot-singh-ji
-- 👀 I’m interested in girls
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on different coding programs
 - 📫 How to reach me .. karanjot032004@gmail.com
