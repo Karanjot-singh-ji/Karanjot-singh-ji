@@ -1,3 +1,4 @@
+[![MasterHead](https://images.app.goo.gl/rc2NDhgUQ3C3Lmfq6)]
 <h1 align="center">Hi 👋, I'm Karanjot Singh Malhotra</h1>
 <h3 align="center">Passionately Exploring the Frontiers of AI and ML</h3>
 
