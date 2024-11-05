@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/rc2NDhgUQ3C3Lmfq6)](https://rishavchanda.io)
+![MasterHead](https://github.com/Karanjot-singh-ji/Karanjot-singh-ji/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Karanjot Singh Malhotra</h1>
 <h3 align="center">Passionately Exploring the Frontiers of AI and ML</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
