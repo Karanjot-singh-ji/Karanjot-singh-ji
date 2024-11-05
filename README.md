@@ -37,7 +37,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanjot-singh-ji&show_icons=true&locale=en" alt="karanjot-singh-ji" /></p>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
