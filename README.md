@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Karanjot-singh-ji/Karanjot-singh-ji/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Karanjot Singh Malhotra</h1>
+<h1 align="center">Also Known as Techno Turban </h1>
 <h3 align="center">Passionately Exploring the Frontiers of AI and ML</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Karanjot-singh-ji/Karanjot-singh-ji/blob/main/side.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanjot-singh-ji&label=Profile%20views&color=0e75b6&style=flat" alt="karanjot-singh-ji" /> </p>
 
